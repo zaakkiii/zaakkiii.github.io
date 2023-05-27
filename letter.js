@@ -31,7 +31,7 @@ Zakiiii I am sorry and I did not mean it(b*sh) literally. There are so many thin
 I am learning and constantly trying to be better at. I might make mistakes in the>
 process but I never had/have/will have an intention to hurt or disrespect you.>
 If you ever feel that is not the case, let me know, I'll work on it for sure.>
-Don't wanna be losing a friend like you.
+Don't wanna lose a friend like ya.
 `
 var speed = 50;
 typeWriter();
